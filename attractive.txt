@@ -1,0 +1,9 @@
+height,hair,eyes,attractive
+small,blonde,brown,no
+tall,dark,brown,no
+tall,blonde,blue,yes
+tall,dark,blue,no
+small,dark,blue,no
+tall,red,blue,yes
+tall,blonde,brown,no
+small,blonde,blue,yes
